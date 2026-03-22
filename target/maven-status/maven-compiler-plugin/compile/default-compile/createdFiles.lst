@@ -1,0 +1,10 @@
+com\bluebook\repository\CommentRepository.class
+com\bluebook\model\User.class
+com\bluebook\repository\PostRepository.class
+com\bluebook\model\Dislike.class
+com\bluebook\model\Follow.class
+com\bluebook\model\Comment.class
+com\bluebook\model\Collect.class
+com\bluebook\model\Post.class
+com\bluebook\repository\UserRepository.class
+com\bluebook\model\Like.class
