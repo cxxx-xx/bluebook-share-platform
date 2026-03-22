@@ -285,16 +285,16 @@ bluebook/
 ## 📸 项目截图
 
 ### 首页
-![首页](docs/screenshots/home.png)
+![首页](./docs/screenshots/首页.png)
+
+### 主页
+![主页](./docs/screenshots/主页.png)
 
 ### 登录页
-![登录页](docs/screenshots/login.png)
-
-### 个人主页
-![个人主页](docs/screenshots/profile.png)
+![登录页](./docs/screenshots/登陆.png)
 
 ### 管理员后台
-![管理员后台](docs/screenshots/admin.png)
+![管理员后台](./docs/screenshots/管理员页面.png)
 
 ---
 
